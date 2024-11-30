@@ -59,3 +59,8 @@ This configuration sets the led0 alias to use pin 13 on GPIO controller gpio0. T
 
 - If the LED is built into the board hardware, the led0 alias should already be defined in the board’s default device tree file.
 - For custom LEDs, define the alias in a device tree overlay file.
+
+## 🔗 Quick Links
+
+- [📁 Back to Nordic-Semiconductor Projects](https://github.com/Amid68/Nordic-Semiconductor/blob/main/README.md)
+
